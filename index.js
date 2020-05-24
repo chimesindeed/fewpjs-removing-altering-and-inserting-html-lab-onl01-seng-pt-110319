@@ -3,5 +3,5 @@
 document.querySelector('main').remove();
 
 let newHeader = document.createElement('h1');
-newHeader.id = 'victory'
-newHeader.innerHTML = 'js is the champion!'
+newHeader.id = 'victory';
+newHeader.innerHTML = 'js is the champion!';
